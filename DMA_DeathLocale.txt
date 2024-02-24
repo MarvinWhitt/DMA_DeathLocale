@@ -1,0 +1,143 @@
+ID,StageName,AgeAtDeath,DateOfDeath,DeathCity_IntlProvince,DeathState_IntlCity,DeathCountry,SpecialDeathID,US_Region,International_Region
+1,Tammi Terrell,24,1970-03-16,Philadelphia,Pennsylvania,US,T2M470,East,N/A
+2,Jimi Hendrix,27,1970-09-18,Kensington,London,England,J2H770,N/A,Europe
+3,Janis Joplin,27,1970-10-04,Hollywood,California,US,J2J770,West,N/A
+4,Jim Morrison,27,1971-07-03,Paris,N/A,France,J2M771,N/A,Europe
+5,Mahalia Jackson,60,1972-01-27,Evergreen Park,Illinois,US,M6J072,MidWest,N/A
+6,Jim Croce,30,1973-09-20,Natchitoches,Louisiana,US,J3C073,South,N/A
+7,Duke Ellington,75,1974-05-24,NYC,New York,US,E7E574,East,N/A
+8,Cannonball Adderley,46,1975-08-08,Gary,Indiana,US,J4A675,MidWest,N/A
+9,Elvis Presley,42,1977-08-16,Memphis,Tennessee,US,E4P242,South,N/A
+10,Donny Hathaway,33,1979-01-13,NYC,New York,US,D3H379,East,N/A
+11,Minnie Riperton,31,1979-07-12,Los Angeles,California,US,M3R179,West,N/A
+12,Bon Scott,33,1980-02-19,East Dulwich,London,England,R3S380,N/A,Europe
+13,John Bonham,32,1980-09-25,Clewer,Berkshire,England,J3B280,N/A,Europe
+14,John Lennon,40,1980-12-08,NYC,New York,US,J4L080,East,N/A
+15,Bill Haley,55,1981-02-09,Harlingen,Texas,US,W5H581,SouthWest,N/A
+16,Bob Marley,36,1981-05-11,Miami,Florida,US,R3M681,South,N/A
+17,John Belushi,33,1982-03-05,Los Angeles,California,US,J3B382,West,N/A
+18,Randy Rhoads,25,1982-03-19,Leesburg,Florida,US,R2R582,South,N/A
+19,Karen Carpenter,32,1983-02-04,Downey,California,US,K3C283,West,N/A
+20,Muddy Waters,70,1983-08-30,Westmont,Illinois,US,M7M083,MidWest,N/A
+21,James Jamerson,47,1983-08-02,Los Angeles,California,US,J4J783,West,N/A
+22,Marvin Gaye,44,1984-04-01,Los Angeles,California,US,M4G484,West,N/A
+23,Scott La Rock,25,1987-08-27,NYC,New York,US,S2S584,East,N/A
+24,Peter Tosh,42,1987-09-11,Kingston,Jamaica,US,W4M287,US,Carribean
+25,Jaco Pastorius,35,1987-09-21,Fort Lauderdale,Florida,US,J3P587,South,N/A
+26,Roy Orbison,52,1988-12-06,Hendersonville,Tennessee,US,R5O288,South,N/A
+27,Sylvester,41,1988-12-16,San Francisco,California,US,S4J188,West,N/A
+28,Sammy Davis Jr,64,1980-05-16,Beverly Hills,California,US,S6D490,West,N/A
+29,Stevie Ray Vaughn,35,1990-08-27,East Troy,Wisconsin,US,S3V590,MidWest,N/A
+30,Steve Clark,30,1981-01-08,Chelsea,London,England,S3C091,N/A,Europe
+31,David Ruffin,50,1991-06-01,Philadelphia,Pennsylvania,US,D5R091,East,N/A
+32,Miles Davis,65,1991-09-28,Santa Monica,California,US,M6D591,West,N/A
+33,Bill Graham,60,1991-10-25,Vallejo,California,US,W6G091,West,N/A
+34,Freddie Mercury,45,1991-11-24,London,N/A,England,F4B591,N/A,Europe
+35,Mary Wells,49,1992-07-28,Los Angeles,California,US,M4W992,West,N/A
+36,Eddie Kendricks,52,1939-12-17,Birmingham,Alabama,US,E5K292,South,N/A
+37,Eddie Hazel,42,1992-12-23,Plainfield,New Jersey,US,E4H292,East,N/A
+38,Dizzy Gillespie,75,1993-01-06,Englewood,New Jersey,US,J7G593,East,N/A
+39,Frank Zappa,52,1993-12-04,Los Angeles,California,US,F5Z293,East,N/A
+40,Kurt Cobain,27,1994-04-05,Seattle,Washington,US,K2C794,West,N/A
+41,Easy-E,30,1995-03-26,Los Angeles,California,US,E3W095,West,N/A
+42,Phyllis Hyman,45,1995-06-30,NYC,New York,US,P4H595,East,N/A
+43,Bobby Debarge,39,1995-08-16,Grand Rapids,Michigan,US,R3D995,East,N/A
+44,Bernard Edwards,43,1996-04-18,Tokyo,N/A,Japan,B4E396,N/A,Asia
+45,Johnny Guitar Watson,61,1996-05-17,Yokohama,N/A,Japan,J6W196,N/A,Asia
+46,Ella Fitzgerald,79,1996-06-15,Beverly Hills,California,US,E7F996,West,N/A
+47,Tupac,25,1996-09-13,Las Vegas,Nevada,US,L2C596,West,N/A
+48,The Notorius B.I.G.,24,1997-03-09,Los Angeles,California,US,C2W497,West,N/A
+49,John Denver,53,1997-10-12,Pacific Grove,California,US,H5D397,West,N/A
+50,Sonny Bono,62,1998-01-05,Stateline,Nevada,US,S6B298,West,N/A
+51,Rob Pilatus,32,1988-04-03,Friedrichsdorf,N/A,Germany,R3P298,N/A,Europe
+52,Tammy Wynette,55,1998-04-06,Nashville,Tennessee,US,V5P598,South,N/A
+53,Linda McCartney,56,1998-04-17,Tuscon,Arizona,US,L5E698,Southwest,N/A
+54,Eddie Rabbitt,56,1998-05-07,Nashville,Tennessee,US,E5R698,South,N/A
+55,Frank Sinatra,82,1998-05-14,Los Angeles,California,US,F8S298,West,N/A
+56,Roger Troutman,47,1999-04-25,Dayton,Ohio,US,J4T799,Midwest,N/A
+57,Grover Washington Jr,56,1999-12-17,Manhattan,New York,US,G5W699,East,N/A
+58,Curtis Mayfield,57,1999-12-26,Roswell,Georgia,US,C5M799,South,N/A
+59,Big Pun,28,2000-02-07,White Plains,New York,US,C2R800,East,N/A
+60,Pops Staples,89,2000-12-19,Chicago,Illinois,US,R8S500,Midwest,N/A
+61,Joey Ramone,49,2001-04-15,Manhattan,New York,US,J4H901,East,N/A
+62,John Lee Hooker,88,2001-06-21,Los Altos,California,US,J8H801,West,N/A
+63,Aaliyah,22,2001-08-25,Abaco Islands,N/A,The Bahamas,A2H201,N/A,,Carribean
+64,Left Eye,30,2002-04-25,La Cieba,N/A,Honduras,L3L001,N/A,South America
+65,Jam Master Jay,37,2002-10-30,Queens,New York,US,J3M702,East,N/A
+66,Barry White,58,2003-07-04,Los Angeles,California,US,B5C803,West,N/A
+67,Johnny Cash,71,2003-09-12,Nashville,Tennessee,US,J7C103,South,N/A
+68,Ray Charles,73,2004-06-10,Beverly Hills,California,US,R7R304,West,N/A
+69,Rick James,56,2004-08-06,Los Angeles,California,US,J5J604,West,N/A
+70,Luther Vandross,54,2005-07-01,Edison,New Jersey,US,L5V405,East,N/A
+71,Wilson Pickett,64,2006-01-19,Reston,Virginia,US,W6P406,East,N/A
+72,Gerald Levert,40,2006-11-10,Cleveland,Ohio,US,G4L006,Midwest,N/A
+73,James Brown,73,2006-12-25,Atlanta,Georgia,US,J7B306,South,N/A
+74,Ike Turner,76,2007-12-12,San Marcos,California,US,I7T607,West,N/A
+75,Sean Levert,39,2008-03-30,Cleveland,Ohio,US,S3L908,MidWest,N/A
+76,Issac Hayes,65,2008-08-10,Memphis,Tennessee,US,I6H508,South,N/A
+77,Michael Jackson,50,2009-06-25,Los Angeles,California,US,M5J009,West,N/A
+78,Teddy Pendergrass,59,2010-01-13,Bryn Mawr,Pennsylvania,US,T5P910,East,N/A
+79,Lena Horne,92,2010-05-09,NYC,New York,US,L9H210,East,N/A
+80,Teena Marie,54,2010-12-26,Pasadena,California,US,M5B410,West,N/A
+81,Nate Dogg,41,2011-03-15,Long Beach,California,US,N4H111,West,N/A
+82,Gil Scott-Heron,62,2011-05-27,NYC,New York,US,G6H211,East,N/A
+83,Amy Winehouse,27,2011-07-23,London,N/A,England,A2W711,N/A,Europe
+84,Heavy D,44,2011-11-08,Los Angeles,California,US,D4M411,East,N/A
+85,Etta James,73,2012-01-20,Riverside,California,US,J7H312,West,N/A
+86,Whitney Houston,48,2012-02-11,Beverly Hills,California,US,W4H812,West,N/A
+87,Robin Gibb,62,2012-05-20,London,N/A,England,R6G212,N/A,Europe
+88,Andy Gibb,30,1988-03-10,Oxford,N/A,England,A3G088,N/A,England
+89,Dick Clark,82,2012-04-18,Santa Monica,California,US,R8C212,West,N/A
+90,Donna Summer,63,2012-05-17,Naples,Florida,US,L6G312,SouthEast,N/A
+91,Brad Delp,55,2007-03-09,Atkinson,New Hampshire,US,B5D507,Northeast,N/A
+92,Leroy "Sugarfoot" Bonner,69,2013-01-26,Trotwood,Ohio,US,L6S913,MidWest,N/A
+93,Bobby Womack,70,2014-06-27,Tarzana,California,US,R7W014,West,N/A
+94,Natalie Cole,65,2015-12-31,Los Angeles,California,US,N6C514,West,N/A
+95,David Bowie,69,2016-01-10,NYC,New York,US,D6J916,West,US
+96,Glen Frey,67,2016-01-18,Manhattan,New York,US,G6F716,East,N/A
+97,Maurice White,74,2016-02-04,Los Angeles,California,US,M7W416,West,N/A
+98,Vanity,57,2016-02-15,Fremont,California,US,D5M716,West,N/A
+99,Merle Haggard,79,2016-04-06,Palo Cedro,California,US,M7H916,West,N/A
+100,Prince,57,2016-04-21,Chanhassen,Minnesota,US,P5N716,MidWest,N/A
+101,George Michael,53,2016-12-25,Goring-on-Thames,Oxfordshire,England,G5P316,N/A,Europe
+102,Charles Neville,79,2018-04-26,Huntington,Massachusetts,US,C7N918,East,N/A
+103,XXX Tentacion,20,2018-06-18,Deefield Beach,Florida,US,J2O018,SouthWest,N/A
+104,Aretha Franklin,76,2018-08-16,Detroit,Michigan,US,A7F618,East,N/A
+105,Roy Clark,85,2018-11-15,Tulsa,Oklahoma,US,R8C518,South,N/A
+106,Jerry Garcia,53,1995-08-09,Forest Knolls,California,US,J5G395,West,N/A
+107,Nipsey Hussle,33,2019-03-31,Los Angeles,California,US,E3A319,West,N/A
+108,Eddie Money,70,2019-09-13,Los Angeles,California,US,E7M019,West,N/A
+109,Ric Ocasek,75,2019-09-15,NYC,New York,US,R7O519,East,N/A
+110,Juice WRLD,21,2019-12-08,Oak Lawn,Illinois,US,J2H119,MidWest,N/A
+111,Neil Peart,67,2020-01-07,Santa Monica,California,US,N6P720,West,N/A
+112,Pop Smoke,20,2020-02-19,Los Angeles,California,US,B2J020,West,N/A
+113,Little Richard,87,2020-05-09,Tullahoma,Tennessee,US,R8P720,South,N/A
+114,Betty Wright,66,2020-05-10,Miami,Florida,US,R6N620,SouthEast,N/A
+115,Ronald Khalis Bell,68,2020-09-09,US Virgin Islands,N/A,N/A,R6B820,N/A,Carribean
+116,Helen Reddy,78,2020-09-29,Los Angeles,California,US,H7R820,West,N/A
+117,Bonnie Pointer,69,2020-06-08,Los Angeles,California,US,P6P920,West,N/A
+118,Eddie Van Halen,65,2020-10-06,Santa Monica,California,US,E6V520,West,N/A
+119,Tom Petty,66,2017-10-02,Santa Monica,California,US,T6P617,West,N/A
+120,B.B.King,89,2015-05-14,Las Vegas,Nevada,US,R8K915,West,N/A
+121,George Harrison,58,2001-11-29,Los Angeles,California,US,G5H801,West,N/A
+122,MO3,28,2020-11-11,Dallas,Texas,US,M2N820,South,N/A
+123,Bill Withers,81,2020-03-30,Los Angeles,California,US,W8W120,West,N/A
+124,Big Bank Hank,58,2014-11-11,Englewood,New Jersey,US,H5J814,East,N/A
+125,Ronnie James Dio,67,2010-05-16,Houston,Texas,US,R6P710,South,N/A
+126,Marian Anderson,96,1993-04-08,Portland,Oregon,US,M9A693,West,N/A
+127,Sam Cooke,33,1964-12-11,Los Angeles,California,US,S3C364,West,N/A
+128,Otis Redding,26,1967-12-10,Madison,Wisconsin,US,O2R667,MidWest,N/A
+129,Kevin Dubrow,52,2007-11-19,Las Vegas,Nevada,US,K5D207,West,N/A
+130,Laura Branigan,52,2004-08-26,East Quogue,New York,US,L5B204,East,N/A
+131,Nat King Cole,45,1965-02-15,Santa Monica,California,US,N4C565,West,N/A
+132,Liberace,67,1987-02-04,Palm Springs,California,US,W6L787,West,N/A
+133,D.J.Rogers,72,2020-08-22,Los Angeles,California,US,D7R220,West,N/A
+134,Daryl Coley,60,2016-03-15,Los Angeles,California,US,D6C016,West,N/A
+135,James Cleveland,59,1991-02-09,Culver City,California,US,J5C991,West,N/A
+136,Rance Allen,71,2020-10-31,Toledo,Ohio,US,R7A120,Midwest,N/A
+137,Edwin Hawkins,74,2018-01-15,Pleasanton,California,US,E7H418,West,N/A
+138,Walter Hawkins,61,2010-07-11,Ripon,California,US,W6H110,West,N/A
+139,Andrae Crouch,72,2015-01-08,Los Angeles,California,US,A7C215,West,N/A
+140,Don Cornelius,75,2012-02-01,Los Angeles,California,US,D7C512,West,N/A
+141,Casey Kasem,82,2014-06-15,Gig Harbor,Washington,US,K8K214,West,N/A
+142,Wolfman Jack,57,1995-07-01,Belvedere,North Carolina,US,R5S795,Southeast,N/A
